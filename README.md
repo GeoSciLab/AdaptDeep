@@ -4,7 +4,7 @@ Restoration via Domain Adaptation
 This is the official code of [AdaptDeep (A Self-supervised Framework for Geophysical Data)](https://github.com/GeoSciLab/AdaptDeep).
 
 ## Datasets
-The grid field data for training *sst*, *t2m*, *vo* and *tp* are available from ERA5 hourly data on pressure (https://doi.org/10.24381/cds.bd0915c6) and single levels (https://doi.org/10.24381/cds.adbb2d47) of ERA5. Observational data during the passage of typhoon In-fa for validation is from six meteorological stations in northern Taiwan (https://www.cwb.gov.tw/V8/C/). 
+The grid field data for training sst, t2m, vo and precipitation models are available from ERA5 hourly data on pressure (https://doi.org/10.24381/cds.bd0915c6) and single levels (https://doi.org/10.24381/cds.adbb2d47) of ERA5. Sample codes for training our models and observational data for validation in six meteorological stations (from the Central Weather Bureau of Taiwan, see the 'stations' folder) are available on GitHub. 
 
 ## Code
 It should be easy to use main.py for training or testing .
