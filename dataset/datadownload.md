@@ -1,0 +1,1 @@
+The grid field data for training sst, t2m, vo and precipitation models are available from ERA5 hourly data on pressure (https://doi.org/10.24381/cds.bd0915c6) and single levels (https://doi.org/10.24381/cds.adbb2d47) of ERA5.
